@@ -1,0 +1,68 @@
+{
+  "phoenix_objection": {
+    "subtitle": "particularparrots.subtitle.objection",
+    "sounds": [
+      "particularparrots:phoenix_objection"
+    ]
+  },
+  "phoenix_holdit": {
+    "subtitle": "particularparrots.subtitle.holdit",
+    "sounds": [
+      "particularparrots:phoenix_holdit"
+    ]
+  },
+  "apollo_glassk": {
+    "subtitle": "particularparrots.subtitle.glassk",
+    "sounds": [
+      "particularparrots:apollo_glassk"
+    ]
+  },
+  "apollo_hello": {
+    "subtitle": "particularparrots.subtitle.hello",
+    "sounds": [
+      "particularparrots:apollo_hello"
+    ]
+  },
+  "apollo_itsabell": {
+    "subtitle": "particularparrots.subtitle.itsabell",
+    "sounds": [
+      "particularparrots:apollo_itsabell"
+    ]
+  },
+  "apollo_pistash": {
+    "subtitle": "particularparrots.subtitle.pistash",
+    "sounds": [
+      "particularparrots:apollo_pistash"
+    ]
+  },
+  "apollo_shrek": {
+    "subtitle": "particularparrots.subtitle.shrek",
+    "sounds": [
+      "particularparrots:apollo_shrek"
+    ]
+  },
+  "apollo_wario": {
+    "subtitle": "particularparrots.subtitle.wario",
+    "sounds": [
+      "particularparrots:apollo_wario"
+    ]
+  },
+  "heimdall_bawkbawk": {
+    "subtitle": "particularparrots.subtitle.bawkbawk",
+    "sounds": [
+      "particularparrots:heimdall_bawkbawk"
+    ]
+  },
+  "heimdall_goodgirl": {
+    "subtitle": "particularparrots.subtitle.goodgirl",
+    "sounds": [
+      "particularparrots:heimdall_goodgirl"
+    ]
+  },
+  "heimdall_hello": {
+    "subtitle": "particularparrots.subtitle.hello",
+    "sounds": [
+      "particularparrots:heimdall_hello"
+    ]
+  }
+}
