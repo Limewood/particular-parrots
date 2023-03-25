@@ -21,20 +21,20 @@ modId="particularparrots" #mandatory
 # see the associated build.gradle script for how to populate this completely automatically during a build
 version="${file.jarVersion}" #mandatory
  # A display name for the mod
-displayName="BunCord Mod" #mandatory
+displayName="Particular Parrots" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification https://mcforge.readthedocs.io/en/latest/gettingstarted/autoupdate/
 #updateJSONURL="https://change.me.example.invalid/updates.json" #optional
 # A URL for the "homepage" for this mod, displayed in the mod UI
 #displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
 # A file name (in the root of the mod JAR) containing a logo for display
-logoFile="particularparrots.png" #optional
+logoFile="logo.png" #optional
 # A text field displayed in the mod UI
-credits="m00" #optional
+credits="buns" #optional
 # A text field displayed in the mod UI
-authors="c0w5" #optional
+authors="Limewood" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-m00
+Particular parrots mod.
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.particularparrots]] #optional
