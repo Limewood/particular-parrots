@@ -15,7 +15,7 @@ import java.util.Locale;
 
 @Mixin(ParrotRenderer.class)
 public class MixinParrotRenderer {
-	@Inject(at = @At("HEAD"), method = "getTextureLocation", cancellable = true)
+	@Inject(at = @At("HEAD"), method = "getTextureLocation(Lnet/minecraft/world/entity/animal/Parrot;)Lnet/minecraft/resources/ResourceLocation;", cancellable = true)
 	public void particularParrots_getTextureLocation(Parrot parrot, CallbackInfoReturnable<ResourceLocation> cir) {
 		Component name = parrot.getCustomName();
 		if (name != null) {
