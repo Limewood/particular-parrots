@@ -27,6 +27,7 @@ public class SoundsInit {
 		List<RegistryObject<SoundEvent>> phoenixList = new ArrayList<>();
 		phoenixList.add(registerSoundEvent("phoenix_objection"));
 		phoenixList.add(registerSoundEvent("phoenix_holdit"));
+		phoenixList.add(registerSoundEvent("phoenix_always_believed"));
 		PARROT_SOUNDS.put(ParticularParrot.Phoenix, phoenixList);
 		List<RegistryObject<SoundEvent>> apolloList = new ArrayList<>();
 		apolloList.add(registerSoundEvent("apollo_glassk"));
@@ -35,11 +36,13 @@ public class SoundsInit {
 		apolloList.add(registerSoundEvent("apollo_pistash"));
 		apolloList.add(registerSoundEvent("apollo_shrek"));
 		apolloList.add(registerSoundEvent("apollo_wario"));
+		apolloList.add(registerSoundEvent("apollo_wow"));
 		PARROT_SOUNDS.put(ParticularParrot.Apollo, apolloList);
 		List<RegistryObject<SoundEvent>> heimdallList = new ArrayList<>();
 		heimdallList.add(registerSoundEvent("heimdall_bawkbawk"));
 		heimdallList.add(registerSoundEvent("heimdall_goodgirl"));
 		heimdallList.add(registerSoundEvent("heimdall_hello"));
+		heimdallList.add(registerSoundEvent("heimdall_peepeepoopoo"));
 		PARROT_SOUNDS.put(ParticularParrot.Heimdall, heimdallList);
 	}
 

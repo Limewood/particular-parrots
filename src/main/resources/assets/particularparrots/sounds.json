@@ -11,6 +11,12 @@
       "particularparrots:phoenix_holdit"
     ]
   },
+  "phoenix_always_believed": {
+    "subtitle": "particularparrots.subtitle.always_believed",
+    "sounds": [
+      "particularparrots:phoenix_always_believed"
+    ]
+  },
   "apollo_glassk": {
     "subtitle": "particularparrots.subtitle.glassk",
     "sounds": [
@@ -47,6 +53,12 @@
       "particularparrots:apollo_wario"
     ]
   },
+  "apollo_wow": {
+    "subtitle": "particularparrots.subtitle.wow",
+    "sounds": [
+      "particularparrots:apollo_wow"
+    ]
+  },
   "heimdall_bawkbawk": {
     "subtitle": "particularparrots.subtitle.bawkbawk",
     "sounds": [
@@ -63,6 +75,12 @@
     "subtitle": "particularparrots.subtitle.hello",
     "sounds": [
       "particularparrots:heimdall_hello"
+    ]
+  },
+  "heimdall_peepeepoopoo": {
+    "subtitle": "particularparrots.subtitle.peepeepoopoo",
+    "sounds": [
+      "particularparrots:heimdall_peepeepoopoo"
     ]
   }
 }
