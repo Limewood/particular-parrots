@@ -6,7 +6,7 @@ import java.util.List;
 
 public enum ParticularParrot {
 	Phoenix(
-			3,
+			2,
 			"phoenix wright",
 			"phoenix",
 			"ryunosuke naruhodo",
